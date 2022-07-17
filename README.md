@@ -1,26 +1,12 @@
 ### Hi there 👋
 
-<!--
-**leopard1218/leopard1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 🌱I will provide you with an eye-catching website that will be entirely responsive, easy to navigate, and well-designed, with all the latest features and
 functionalities.
 Professional Skills:
 🌱 frontend: HTML, CSS, JavaScript, Bootstrap, Sass, React/Redux, Typescript, Vue.js, GraphQL, Apollo.
-👯 backend: Node.js, Django, Laravel and Ruby on Rails
-😄 Database: MongoDB, MySQL, PostgreSQL
-😄 Software Analysis, UI/UX Design, Graphic Design
+👯 backend: Node.js, Django, Laravel and Ruby on Rails.
+😄 Database: MongoDB, MySQL, PostgreSQL.
+😄 Software Analysis, UI/UX Design, Graphic Design.
 😄 AWS Amplify, S3 bucket.
 😄 ERC-721, ERC-20, ERC-1155 smart using solidity.
-😄 NFT Minting / Staking / marketplace DeFi (Pancake swap, Staking, Liquidity Pools) on Ethereum, Binance smart chain, IMX and Solana
+😄 NFT Minting / Staking / marketplace DeFi (Pancake swap, Staking, Liquidity Pools) on Ethereum, Binance smart chain, IMX and Solana.
