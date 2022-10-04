@@ -17,6 +17,6 @@ Professional Skills:
 <br />
 😄 AWS Amplify, S3 bucket.
 <br />
-😄 ERC-721, ERC-20, ERC-1155 smart using solidity.
+😄 ERC-721, ERC-20, ERC-1155 smart contracts using solidity.
 <br />
 😄 NFT Minting / Staking / marketplace DeFi (Pancake swap, Staking, Liquidity Pools) on Ethereum, Binance smart chain, IMX and Solana.
