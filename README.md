@@ -1,4 +1,4 @@
-Motivated Blockchain & Full Stack Engineer<br />
+Senior Blockchain & Full Stack Engineer<br />
 ----------------------------------<br />
 ### Hi there 👋
 
